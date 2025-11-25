@@ -342,13 +342,6 @@ border-radius: 8px; /*BOXMODEL*/
     object-fit: cover;
 }
 
-section img {
-    width: 0px;
-    flex-grow: 1;
-    object-fit: cover;
-    opacity: .8;
-}
-
 .news-content {
     padding: 15px 20px;
 }
